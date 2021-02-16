@@ -1,0 +1,62 @@
+[
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   classifyX_data.c -o build/win64/classifyX_data.o",
+    "file": "classifyX_data.c",
+    "output": "build/win64/classifyX_data.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   rt_nonfinite.c -o build/win64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   classifyX_initialize.c -o build/win64/classifyX_initialize.o",
+    "file": "classifyX_initialize.c",
+    "output": "build/win64/classifyX_initialize.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   classifyX_terminate.c -o build/win64/classifyX_terminate.o",
+    "file": "classifyX_terminate.c",
+    "output": "build/win64/classifyX_terminate.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   classifyX.c -o build/win64/classifyX.o",
+    "file": "classifyX.c",
+    "output": "build/win64/classifyX.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   Gaussian.c -o build/win64/Gaussian.o",
+    "file": "Gaussian.c",
+    "output": "build/win64/Gaussian.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_classifyX_api.c -o build/win64/_coder_classifyX_api.o",
+    "file": "interface/_coder_classifyX_api.c",
+    "output": "build/win64/_coder_classifyX_api.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_classifyX_mex.c -o build/win64/_coder_classifyX_mex.o",
+    "file": "interface/_coder_classifyX_mex.c",
+    "output": "build/win64/_coder_classifyX_mex.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_classifyX_info.c -o build/win64/_coder_classifyX_info.o",
+    "file": "interface/_coder_classifyX_info.c",
+    "output": "build/win64/_coder_classifyX_info.o"
+  },
+  {
+    "directory": "D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\" -I \"D:\\Line Center\\Export-Model-to-C-from-MatLAB\\codegen\\mex\\classifyX\\interface\" -I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" -I \".\" -DMODEL=classifyX_mex -D__USE_MINGW_ANSI_STDIO=1   \"C:/Program Files/MATLAB/R2020b/extern/version/c_mexapi_version.c\" -o build/win64/c_mexapi_version.o",
+    "file": "C:/Program Files/MATLAB/R2020b/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.o"
+  }
+]
