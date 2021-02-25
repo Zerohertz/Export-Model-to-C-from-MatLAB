@@ -1,0 +1,176 @@
+[
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  MWConvLayer.cpp /Fobuild\\win64\\MWConvLayer.obj",
+    "file": "MWConvLayer.cpp",
+    "output": "build/win64/MWConvLayer.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  MWElementwiseAffineLayer.cpp /Fobuild\\win64\\MWElementwiseAffineLayer.obj",
+    "file": "MWElementwiseAffineLayer.cpp",
+    "output": "build/win64/MWElementwiseAffineLayer.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  cnn_api.cpp /Fobuild\\win64\\cnn_api.obj",
+    "file": "cnn_api.cpp",
+    "output": "build/win64/cnn_api.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  MWCNNLayerImpl.cpp /Fobuild\\win64\\MWCNNLayerImpl.obj",
+    "file": "MWCNNLayerImpl.cpp",
+    "output": "build/win64/MWCNNLayerImpl.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  MWConvLayerImpl.cpp /Fobuild\\win64\\MWConvLayerImpl.obj",
+    "file": "MWConvLayerImpl.cpp",
+    "output": "build/win64/MWConvLayerImpl.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  MWElementwiseAffineLayerImpl.cpp /Fobuild\\win64\\MWElementwiseAffineLayerImpl.obj",
+    "file": "MWElementwiseAffineLayerImpl.cpp",
+    "output": "build/win64/MWElementwiseAffineLayerImpl.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  MWTargetNetworkImpl.cpp /Fobuild\\win64\\MWTargetNetworkImpl.obj",
+    "file": "MWTargetNetworkImpl.cpp",
+    "output": "build/win64/MWTargetNetworkImpl.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  MWMkldnnUtils.cpp /Fobuild\\win64\\MWMkldnnUtils.obj",
+    "file": "MWMkldnnUtils.cpp",
+    "output": "build/win64/MWMkldnnUtils.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  MWCustomLayerForMKLDNN.cpp /Fobuild\\win64\\MWCustomLayerForMKLDNN.obj",
+    "file": "MWCustomLayerForMKLDNN.cpp",
+    "output": "build/win64/MWCustomLayerForMKLDNN.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  classifyX_data.cpp /Fobuild\\win64\\classifyX_data.obj",
+    "file": "classifyX_data.cpp",
+    "output": "build/win64/classifyX_data.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  rt_nonfinite.cpp /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.cpp",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  classifyX_initialize.cpp /Fobuild\\win64\\classifyX_initialize.obj",
+    "file": "classifyX_initialize.cpp",
+    "output": "build/win64/classifyX_initialize.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  classifyX_terminate.cpp /Fobuild\\win64\\classifyX_terminate.obj",
+    "file": "classifyX_terminate.cpp",
+    "output": "build/win64/classifyX_terminate.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  classifyX.cpp /Fobuild\\win64\\classifyX.obj",
+    "file": "classifyX.cpp",
+    "output": "build/win64/classifyX.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  DeepLearningNetwork.cpp /Fobuild\\win64\\DeepLearningNetwork.obj",
+    "file": "DeepLearningNetwork.cpp",
+    "output": "build/win64/DeepLearningNetwork.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  predict.cpp /Fobuild\\win64\\predict.obj",
+    "file": "predict.cpp",
+    "output": "build/win64/predict.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  postProcessOutputToReturnCategorical.cpp /Fobuild\\win64\\postProcessOutputToReturnCategorical.obj",
+    "file": "postProcessOutputToReturnCategorical.cpp",
+    "output": "build/win64/postProcessOutputToReturnCategorical.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  strtrim.cpp /Fobuild\\win64\\strtrim.obj",
+    "file": "strtrim.cpp",
+    "output": "build/win64/strtrim.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  cellstr_unique.cpp /Fobuild\\win64\\cellstr_unique.obj",
+    "file": "cellstr_unique.cpp",
+    "output": "build/win64/cellstr_unique.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  strcmp.cpp /Fobuild\\win64\\strcmp.obj",
+    "file": "strcmp.cpp",
+    "output": "build/win64/strcmp.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  indexShapeCheck.cpp /Fobuild\\win64\\indexShapeCheck.obj",
+    "file": "indexShapeCheck.cpp",
+    "output": "build/win64/indexShapeCheck.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_classifyX_api.cpp /Fobuild\\win64\\_coder_classifyX_api.obj",
+    "file": "interface/_coder_classifyX_api.cpp",
+    "output": "build/win64/_coder_classifyX_api.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_classifyX_mex.cpp /Fobuild\\win64\\_coder_classifyX_mex.obj",
+    "file": "interface/_coder_classifyX_mex.cpp",
+    "output": "build/win64/_coder_classifyX_mex.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  insertionsort.cpp /Fobuild\\win64\\insertionsort.obj",
+    "file": "insertionsort.cpp",
+    "output": "build/win64/insertionsort.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  introsort.cpp /Fobuild\\win64\\introsort.obj",
+    "file": "introsort.cpp",
+    "output": "build/win64/introsort.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  categorical.cpp /Fobuild\\win64\\categorical.obj",
+    "file": "categorical.cpp",
+    "output": "build/win64/categorical.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  classifyX_mexutil.cpp /Fobuild\\win64\\classifyX_mexutil.obj",
+    "file": "classifyX_mexutil.cpp",
+    "output": "build/win64/classifyX_mexutil.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  interface\\_coder_classifyX_info.cpp /Fobuild\\win64\\_coder_classifyX_info.obj",
+    "file": "interface/_coder_classifyX_info.cpp",
+    "output": "build/win64/_coder_classifyX_info.obj"
+  },
+  {
+    "directory": "D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\\codegen\\mex\\classifyX",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"D:\\Line-Center\\Export-Model-to-C-from-MatLAB\\CWT-CNN\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\\mkldnn\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=classifyX_mex -DMW_NEEDS_VERSION_H /wd4251  \"C:\\Program Files\\MATLAB\\R2020b\\extern\\version\\cpp_mexapi_version.cpp\" /Fobuild\\win64\\cpp_mexapi_version.obj",
+    "file": "C:/Program Files/MATLAB/R2020b/extern/version/cpp_mexapi_version.cpp",
+    "output": "build/win64/cpp_mexapi_version.obj"
+  }
+]
